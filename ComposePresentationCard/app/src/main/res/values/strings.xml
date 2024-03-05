@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compose PresentationCard</string>
+    <string name="presentation_name">Adrian Pinto</string>
+    <string name="presentation_title">Android Developer Extraordinaire</string>
+    <string name="logo_description">Android Logo</string>
+    <string name="phone_number">+54 911 7028 6294</string>
+    <string name="phone_icon_description">Phone</string>
+    <string name="social_media_icon_description">Social Media</string>
+    <string name="social_media_handler">\@adriiijp</string>
+    <string name="email_icon_description">Email</string>
+    <string name="email">adrianpinto34@gmail.com</string>
+</resources>
